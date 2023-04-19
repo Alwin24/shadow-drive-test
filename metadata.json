@@ -1,0 +1,32 @@
+{
+	"name": "Doge Capital #790",
+	"symbol": "DC",
+	"description": "Doge Capital is a collection of 5000 cute pixel doges on Solana. Why should monkes have all the fun? WOOF!",
+	"seller_fee_basis_points": 500,
+	"image": "https://www.arweave.net/d9qeuUA1dUzpHTTBdlNs0pX0wpk2XC2LQTifeueyYGY?ext=png",
+	"external_url": "https://www.thedogecapital.com",
+	"update_authority": "H7a7ukVSEdGr56mkkXDjQhH1gZjcvMqEeVfSxk2dLdUK",
+	"attributes": [
+		{ "trait_type": "Background", "value": "Red" },
+		{ "trait_type": "Type", "value": "Brown" },
+		{ "trait_type": "Hats", "value": "Purple Cap" },
+		{ "trait_type": "Clothes", "value": "Orange Kimono" },
+		{ "trait_type": "Eyes", "value": "Eyes None" },
+		{ "trait_type": "Mouth", "value": "Cigarette" }
+	],
+	"collection": { "name": "Doge Capital", "family": "Doge Capital" },
+	"properties": {
+		"files": [
+			{
+				"uri": "https://www.arweave.net/d9qeuUA1dUzpHTTBdlNs0pX0wpk2XC2LQTifeueyYGY?ext=png",
+				"type": "image/png"
+			}
+		],
+		"category": "image",
+		"creators": [
+			{ "address": "DRyjWStqbeR6eYDaGMPKHwcTopjgiFRyZdUi2Gp6vSnb", "share": 15 },
+			{ "address": "H7a7ukVSEdGr56mkkXDjQhH1gZjcvMqEeVfSxk2dLdUK", "share": 15 },
+			{ "address": "9fFK8LGVoTy35AemJFYqcxwfFN5kPkkWGEuupsfybmjT", "share": 70 }
+		]
+	}
+}
